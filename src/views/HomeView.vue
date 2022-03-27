@@ -1,9 +1,18 @@
 <script setup>
-import TheWelcome from '@/components/TheWelcome.vue'
+import Hero from '../components/Hero.vue';
+import Benefits from '../components/Benefits.vue';
+import Gallery from '../components/Gallery.vue';
+import Faq from '../components/Faq.vue';
+import Footer from '../components/Footer.vue';
+
 </script>
 
 <template>
   <main>
-    <TheWelcome />
+    <Hero />
+    <Benefits />
+    <Gallery />
+    <Faq />
+    <Footer class="bg-gray-200" />
   </main>
 </template>
