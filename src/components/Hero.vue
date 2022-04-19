@@ -2,7 +2,7 @@
 </script>
 
 <template>
-    <div class="w-full h-screen bg-center bg-cover" style="background-image: url(./src/assets/heroimage.jpg);">
+    <div id="hero" class="w-full h-screen bg-center bg-cover">
         <div class="flex items-center justify-center w-full h-full bg-gray-900 bg-opacity-80">
             <div class="w-full max-w-xl mb-12 xl:mb-0 xl:pr-16 xl:w-7/12">
             <h2 class="max-w-lg mb-6 font-sans text-3xl font-bold tracking-tight text-white sm:text-4xl sm:leading-none">
@@ -22,3 +22,10 @@
         </div>
     </div>
 </template>
+
+<style scoped>
+#hero {
+  background-image: url(../assets/heroimage.jpg);
+}
+
+</style>
