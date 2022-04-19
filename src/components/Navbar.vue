@@ -5,9 +5,10 @@ import { RouterLink, RouterView } from 'vue-router'
 <template>
   <nav class="bg-white border-gray-200 px-2 sm:px-4 py-2.5 dark:bg-gray-800">
     <div class="container flex flex-wrap justify-between items-center mx-auto">
-      <a href="https://flowbite.com" class="flex items-center">
-        <img src="/docs/images/logo.svg" class="mr-3 h-6 sm:h-9" alt="Flowbite Logo" />
-        <span class="self-center text-xl font-semibold whitespace-nowrap dark:text-white">Flowbite</span>
+      <a href="https://google.com" class="flex items-center">
+        <!-- <img src="../assets/logo.svg" class="mr-3 h-6 sm:h-9" alt="Logo" /> -->
+        <svg class="mr-3 h-6 sm:h-9" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 261.76 226.69"  xmlns:v="https://vecta.io/nano"><path d="M161.096.001l-30.225 52.351L100.647.001H-.005l130.877 226.688L261.749.001z" fill="#41b883"/><path d="M161.096.001l-30.225 52.351L100.647.001H52.346l78.526 136.01L209.398.001z" fill="#34495e"/></svg>
+        <span class="self-center text-xl font-semibold whitespace-nowrap dark:text-white">Logo</span>
       </a>
       <button
         data-collapse-toggle="mobile-menu"
