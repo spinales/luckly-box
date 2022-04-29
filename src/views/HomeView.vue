@@ -4,15 +4,25 @@ import Benefits from '../components/Benefits.vue';
 import Gallery from '../components/Gallery.vue';
 import Faq from '../components/Faq.vue';
 import Footer from '../components/Footer.vue';
+import AboutUs from '../components/AboutUs.vue';
+import Contact from '../components/Contact.vue';
+import Info from '../components/Info.vue';
+import Alliances from '../components/Alliances.vue';
+import Logos from '../components/Logos.vue';
 
 </script>
 
 <template>
   <main>
     <Hero />
-    <Benefits />
+    <AboutUs />
+    <Contact />
+    <!-- <Benefits /> -->
+    <Info />
+    <Alliances />
+    <Logos />
     <Gallery />
     <Faq />
-    <Footer class="bg-gray-200" />
+    <Footer class="bg-gray-100" />
   </main>
 </template>

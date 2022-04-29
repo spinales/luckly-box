@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "flowbite": "^1.4.1",
+    "kutty": "^0.6.0",
     "vue": "^3.2.31",
     "vue-router": "^4.0.12"
   },
