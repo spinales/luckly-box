@@ -13,7 +13,7 @@ import { RouterLink, RouterView } from 'vue-router'
           lg:px-8
         ">
               <div class="flex flex-row items-center justify-between lg:justify-start">
-                <img src="../assets/logo2.jpg" class="mr-3 w-2/6" alt="Logo" />
+                <router-link to="/"><img src="../assets/logo2.jpg" class="mr-3 w-2/6" alt="Logo" /> </router-link>
                 <button class="rounded-lg md:hidden focus:outline-none focus:shadow-outline" @click="open = !open">
                   <svg fill="currentColor" viewBox="0 0 20 20" class="w-8 h-8">
                     <path x-show="!open" fill-rule="evenodd" d="M3 5a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zM3 10a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zM9 15a1 1 0 011-1h6a1 1 0 110 2h-6a1 1 0 01-1-1z" clip-rule="evenodd"></path>
@@ -24,7 +24,7 @@ import { RouterLink, RouterView } from 'vue-router'
               <nav :class="{'flex': open, 'hidden': !open}" class="flex-col flex-grow hidden md:flex md:justify-end md:flex-row">
                 <ul class="space-y-2 list-none lg:space-y-0 lg:items-center lg:inline-flex">
                   <li>
-                    <router-link to="conocenos" class="
+                    <router-link to="/" class="
                   px-2
                   lg:px-6
                   py-6
@@ -94,7 +94,7 @@ import { RouterLink, RouterView } from 'vue-router'
                 "> 3Rs </router-link>
                   </li>
                   <li>
-                    <a href="#" class="
+                    <router-link to="/contact" class="
                   px-2
                   lg:px-6
                   py-6
@@ -105,7 +105,7 @@ import { RouterLink, RouterView } from 'vue-router'
                   md:px-3
                   text-gray-500
                   hover:text-blue-500
-                "> Contacto </a>
+                "> Contacto </router-link>
                   </li>
                 </ul>
               </nav>

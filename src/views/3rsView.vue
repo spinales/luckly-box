@@ -88,13 +88,15 @@
                     <h2 class="font-bold text-lg py-4 capitalize">¿Cómo reciclar en casa?</h2>
                     <p class="text-md">
                         Prácticamente todos los elementos que nos rodean pueden reciclarse o reutilizarse, así que el
-reciclaje debe comenzar en nuestro propio hogar. De hecho, reciclar es un reto de todos, y
-adquirir nuevos hábitos nos ayuda a conseguir mayor calidad de vida y un planeta más
-sostenible
+                        reciclaje debe comenzar en nuestro propio hogar. De hecho, reciclar es un reto de todos, y
+                        adquirir nuevos hábitos nos ayuda a conseguir mayor calidad de vida y un planeta más
+                        sostenible
                     </p>
                 </div>
                 <div class="py-2">
-                    <h2 class="font-bold text-lg py-4 capitalize">Los principales materiales que podemos reciclar en casa son:</h2>
+                    <h2
+                        class="font-bold text-lg py-4 capitalize"
+                    >Los principales materiales que podemos reciclar en casa son:</h2>
                     <div class="grid space-y-3 sm:gap-2 sm:grid-cols-2 sm:space-y-0">
                         <ul class="space-y-3">
                             <li class="flex items-center">
