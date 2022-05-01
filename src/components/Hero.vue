@@ -23,11 +23,10 @@
             <br />Acceder a ofertas, novedades de productos, promos y muchas otras cosas más regístrate y solo disfruta
           </p>
 
-          <a
+          <router-link to="/contact"
             class="inline-flex items-center px-8 py-3 mt-8 text-white bg-indigo-600 border border-indigo-600 rounded hover:bg-transparent hover:text-indigo-600 active:text-indigo-500 focus:outline-none focus:ring"
-            href="/get-started"
           >
-            <span class="text-sm font-medium">Cuéntame más</span>
+            <span class="text-sm font-medium">Subscribirse</span>
 
             <svg
               class="w-5 h-5 ml-3"
@@ -43,7 +42,7 @@
                 d="M17 8l4 4m0 0l-4 4m4-4H3"
               />
             </svg>
-          </a>
+          </router-link>
         </div>
       </div>
     </div>
@@ -52,15 +51,15 @@
 
   <section class="flex m-12 items-center py-10 justify-center flex-col">
     <div class="w-3/5 h-96 background"></div>
-    <h2 class="text-3xl font-normal old">Laborando desde el 2022</h2>
+    <h2 class="text-4xl font-normal old">Laborando desde el 2022</h2>
   </section>
 </template>
 
 <style scoped>
-@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500;600;700&display=swap');
 
 .old{
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Dancing Script', cursive;
 }
 
 .background{

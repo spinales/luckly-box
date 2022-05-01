@@ -12,24 +12,24 @@
     <div class="flex flex-wrap md:-m-2 -m-1">
       <div class="flex flex-wrap w-1/2">
         <div class="md:p-2 p-1 w-1/2">
-          <img alt="gallery" class="w-full object-cover h-full object-center block" src="https://picsum.photos/500/300">
+          <img alt="gallery" class="w-full object-cover h-full object-center block" src="../assets/gallery1.jpg">
         </div>
         <div class="md:p-2 p-1 w-1/2">
-          <img alt="gallery" class="w-full object-cover h-full object-center block" src="https://picsum.photos/501/301">
+          <img alt="gallery" class="w-full object-cover h-full object-center block" src="../assets/gallery2.jpg">
         </div>
         <div class="md:p-2 p-1 w-full">
-          <img alt="gallery" class="w-full h-full object-cover object-center block" src="https://picsum.photos/600/360">
+          <img alt="gallery" class="w-full h-full object-cover object-center block" src="../assets/gallery3.jpg">
         </div>
       </div>
       <div class="flex flex-wrap w-1/2">
         <div class="md:p-2 p-1 w-full">
-          <img alt="gallery" class="w-full h-full object-cover object-center block" src="https://picsum.photos/601/361">
+          <img alt="gallery" class="w-full h-full object-cover object-center block" src="../assets/gallery4.jpg">
         </div>
         <div class="md:p-2 p-1 w-1/2">
-          <img alt="gallery" class="w-full object-cover h-full object-center block" src="https://picsum.photos/502/302">
+          <img alt="gallery" class="w-full object-cover h-full object-center block" src="../assets/gallery5.jpg">
         </div>
         <div class="md:p-2 p-1 w-1/2">
-          <img alt="gallery" class="w-full object-cover h-full object-center block" src="https://picsum.photos/503/303">
+          <img alt="gallery" class="w-full object-cover h-full object-center block" src="../assets/gallery6.jpg">
         </div>
       </div>
     </div>
