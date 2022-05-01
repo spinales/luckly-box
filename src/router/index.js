@@ -3,6 +3,8 @@ import HomeView from '../views/HomeView.vue'
 import AboutView from '../views/AboutView.vue'
 import rsView from '../views/3rsView.vue'
 import ContactView from '../views/ContactView.vue'
+import AlliancesView from '../views/AlliancesView.vue'
+
 
 
 const router = createRouter({
@@ -27,6 +29,11 @@ const router = createRouter({
       path: '/contact',
       name: 'Contact',
       component: ContactView
+    },
+    {
+      path: '/alliances',
+      name: 'Alliances',
+      component: AlliancesView
     },
   ]
 })

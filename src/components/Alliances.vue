@@ -41,7 +41,7 @@
       </div>
       <div class="grid sm:grid-cols-3">
         <div class="relative w-full h-48 max-h-full rounded shadow sm:h-auto">
-          <img class="absolute object-cover w-full h-full rounded" src="https://images.pexels.com/photos/3747435/pexels-photo-3747435.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=750&amp;w=1260" alt="Person" />
+          <img class="absolute object-cover w-full h-full rounded" src="../assets/emple.jpg" alt="Person" />
         </div>
         <div class="flex flex-col justify-center mt-5 sm:mt-0 sm:p-5 sm:col-span-2">
           <p class="text-lg font-bold">Empleados</p>

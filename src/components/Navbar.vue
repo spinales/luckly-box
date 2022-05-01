@@ -52,7 +52,7 @@ import { RouterLink, RouterView } from 'vue-router'
                 "> Identidad </a>
                   </li>
                   <li>
-                    <a href="#" class="
+                    <router-link to="/alliances" class="
                   px-2
                   lg:px-6
                   py-6
@@ -63,7 +63,7 @@ import { RouterLink, RouterView } from 'vue-router'
                   md:px-3
                   text-gray-500
                   hover:text-blue-500
-                "> Alianzas </a>
+                "> Alianzas </router-link>
                   </li>
                   <li>
                     <a href="#" class="
