@@ -1,9 +1,11 @@
 <template>
-  <div class="px-4 py-16 mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-24 lg:px-8 lg:py-20">
+  <div
+    class="px-4 py-16 mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-24 lg:px-8 lg:py-20"
+  >
     <div class="max-w-xl mb-10 md:mx-auto sm:text-center lg:max-w-2xl md:mb-12">
-      <h2 class="max-w-lg mb-6 font-sans text-3xl font-bold leading-none tracking-tight text-gray-900 sm:text-4xl md:mx-auto">
-        Nuestra razón de ser
-      </h2>
+      <h2
+        class="max-w-lg mb-6 font-sans text-3xl font-bold leading-none tracking-tight text-gray-900 sm:text-4xl md:mx-auto"
+      >Nuestra razón de ser</h2>
       <p class="text-base text-gray-700 md:text-lg space-y-4">
         Somos una organización con ánimo de lucro que coordina el reciclaje de residuos sólidos en
         República Dominicana y ayuda a las empresas a integrar estos productos en la fabricación de
@@ -26,54 +28,83 @@
         <div class="flex flex-col max-w-md sm:flex-row">
           <div class="mb-4 mr-4">
             <div class="flex items-center justify-center w-12 h-12 rounded-full bg-indigo-50">
-              <svg class="w-8 h-8 text-violet-600 sm:w-10 sm:h-10" stroke="currentColor" viewBox="0 0 52 52">
-                <polygon stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none" points="29 13 14 29 25 29 23 39 38 23 27 23"></polygon>
-              </svg>
-            </div>
-          </div>
-          <div>
-            <h6 class="mb-3 text-xl font-bold leading-5">Origen y evolución</h6>
-            <p class="text-md text-gray-900">
-                Lucky Box nace como una idea de un joven que identifico una problemática que no solo tenía
-                impacto en su sector, sino que, en muchos otros espacios, este era la masiva acumulación de
-                residuos sólidos en Santo Domingo, situación que fastidiaba a la población constantemente.<br><br> Al
-                ver esto, el joven se empeñó en hacer una comunidad ecológica donde poco a poco se unían
-                participantes con distintas habilidades y profesiones que compartían el mismo pensar acerca
-                del deterioro del medio ambiente en diversas zonas de Santo Domingo, producto del mal
-                manejo de los productos sólidos. De esta manera surge el proyecto Luckly Box.
-            </p>
-          </div>
-        </div>
-        <div class="flex flex-col max-w-md sm:flex-row">
-          <div class="mb-4 mr-4">
-            <div class="flex items-center justify-center w-12 h-12 rounded-full bg-indigo-50">
-              <svg class="w-8 h-8 text-violet-600 sm:w-10 sm:h-10" stroke="currentColor" viewBox="0 0 52 52">
-                <polygon stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none" points="29 13 14 29 25 29 23 39 38 23 27 23"></polygon>
+              <svg
+                class="w-8 h-8 text-violet-600 sm:w-10 sm:h-10"
+                stroke="currentColor"
+                viewBox="0 0 52 52"
+              >
+                <polygon
+                  stroke-width="3"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  fill="none"
+                  points="29 13 14 29 25 29 23 39 38 23 27 23"
+                />
               </svg>
             </div>
           </div>
           <div>
             <h6 class="mb-3 text-xl font-bold leading-5">Misión</h6>
             <p class="text-md text-gray-900">
-                Somos una entidad construida por jóvenes soñadores y comprometidos a promover el cambio
-                en nuestro país, impulsados hacia una misma causa y con el anhelo de ver nuestro entorno
-                limpio.
+              Somos una entidad construida por jóvenes soñadores y comprometidos a promover el cambio
+              en nuestro país, impulsados hacia una misma causa y con el anhelo de ver nuestro entorno
+              limpio.
             </p>
           </div>
         </div>
         <div class="flex flex-col max-w-md sm:flex-row">
           <div class="mb-4 mr-4">
             <div class="flex items-center justify-center w-12 h-12 rounded-full bg-indigo-50">
-              <svg class="w-8 h-8 text-violet-600 sm:w-10 sm:h-10" stroke="currentColor" viewBox="0 0 52 52">
-                <polygon stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none" points="29 13 14 29 25 29 23 39 38 23 27 23"></polygon>
+              <svg
+                class="w-8 h-8 text-violet-600 sm:w-10 sm:h-10"
+                stroke="currentColor"
+                viewBox="0 0 52 52"
+              >
+                <polygon
+                  stroke-width="3"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  fill="none"
+                  points="29 13 14 29 25 29 23 39 38 23 27 23"
+                />
+              </svg>
+            </div>
+          </div>
+          <div>
+            <h6 class="mb-3 text-xl font-bold leading-5">Visión</h6>
+            <p class="text-md text-gray-900">
+              Ser líderes en innovación ecológica, para así lograr ser más reconocidos y llegar a más público
+              logrando un cambio positivo para nuestro medio ambiente. Ser reconocida como una
+              organización líder y consolidada en materia ambiental, comprometida con el mejoramiento de
+              la calidad de vida de la población y el manejo sostenible de los desechos sólidos. Llegar a
+              convertirnos en una empresa preferida por los dominicanos, con escala a poder medirnos con
+              los demás competidores.
+            </p>
+          </div>
+        </div>
+        <div class="flex flex-col max-w-md sm:flex-row">
+          <div class="mb-4 mr-4">
+            <div class="flex items-center justify-center w-12 h-12 rounded-full bg-indigo-50">
+              <svg
+                class="w-8 h-8 text-violet-600 sm:w-10 sm:h-10"
+                stroke="currentColor"
+                viewBox="0 0 52 52"
+              >
+                <polygon
+                  stroke-width="3"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  fill="none"
+                  points="29 13 14 29 25 29 23 39 38 23 27 23"
+                />
               </svg>
             </div>
           </div>
           <div>
             <h6 class="mb-3 text-xl font-bold leading-5">Valores</h6>
-            <p class="text-md text-gray-900">
-              Honestidad, Trabajo en equipo, Innovación, Calidad de Producto, Responsabilidad, Transparencia y confianza, Sostenibilidad, Equidad, Responsabilidad social, Orientación al cliente, Calidad. 
-            </p>
+            <p
+              class="text-md text-gray-900"
+            >Honestidad, Trabajo en equipo, Innovación, Calidad de Producto, Responsabilidad, Transparencia y confianza, Sostenibilidad, Equidad, Responsabilidad social, Orientación al cliente, Calidad.</p>
           </div>
         </div>
       </div>
@@ -81,68 +112,84 @@
         <div class="flex flex-col max-w-md sm:flex-row">
           <div class="mb-4 mr-4">
             <div class="flex items-center justify-center w-12 h-12 rounded-full bg-indigo-50">
-              <svg class="w-8 h-8 text-violet-600 sm:w-10 sm:h-10" stroke="currentColor" viewBox="0 0 52 52">
-                <polygon stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none" points="29 13 14 29 25 29 23 39 38 23 27 23"></polygon>
+              <svg
+                class="w-8 h-8 text-violet-600 sm:w-10 sm:h-10"
+                stroke="currentColor"
+                viewBox="0 0 52 52"
+              >
+                <polygon
+                  stroke-width="3"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  fill="none"
+                  points="29 13 14 29 25 29 23 39 38 23 27 23"
+                />
               </svg>
             </div>
           </div>
           <div>
             <h6 class="mb-3 text-xl font-bold leading-5">Propósito</h6>
             <p class="text-md text-gray-900">
-                Contribuir al cuidado del medioambiente promoviendo la circularidad de los envases mediante
-                su reducción, reutilización y reciclaje.
+              Contribuir al cuidado del medioambiente promoviendo la circularidad de los envases mediante
+              su reducción, reutilización y reciclaje.
             </p>
           </div>
         </div>
-        
+
         <div class="flex flex-col max-w-md sm:flex-row">
           <div class="mb-4 mr-4">
             <div class="flex items-center justify-center w-12 h-12 rounded-full bg-indigo-50">
-              <svg class="w-8 h-8 text-violet-600 sm:w-10 sm:h-10" stroke="currentColor" viewBox="0 0 52 52">
-                <polygon stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none" points="29 13 14 29 25 29 23 39 38 23 27 23"></polygon>
+              <svg
+                class="w-8 h-8 text-violet-600 sm:w-10 sm:h-10"
+                stroke="currentColor"
+                viewBox="0 0 52 52"
+              >
+                <polygon
+                  stroke-width="3"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  fill="none"
+                  points="29 13 14 29 25 29 23 39 38 23 27 23"
+                />
               </svg>
             </div>
           </div>
           <div>
             <h6 class="mb-3 text-xl font-bold leading-5">Origen y evolución</h6>
             <p class="text-md text-gray-900">
-                Lucky Box nace como una idea de un joven que identifico una problemática que no solo tenía
-                impacto en su sector, sino que, en muchos otros espacios, este era la masiva acumulación de
-                residuos sólidos en Santo Domingo, situación que fastidiaba a la población constantemente.<br><br>Al
-                ver esto, el joven se empeñó en hacer una comunidad ecológica donde poco a poco se unían
-                participantes con distintas habilidades y profesiones que compartían el mismo pensar acerca
-                del deterioro del medio ambiente en diversas zonas de Santo Domingo, producto del mal
-                manejo de los productos sólidos. De esta manera surge el proyecto Luckly Box.
+              Lucky Box nace como una idea de un joven que identifico una problemática que no solo tenía
+              impacto en su sector, sino que, en muchos otros espacios, este era la masiva acumulación de
+              residuos sólidos en Santo Domingo, situación que fastidiaba a la población constantemente.
+              <br />
+              <br />Al
+              ver esto, el joven se empeñó en hacer una comunidad ecológica donde poco a poco se unían
+              participantes con distintas habilidades y profesiones que compartían el mismo pensar acerca
+              del deterioro del medio ambiente en diversas zonas de Santo Domingo, producto del mal
+              manejo de los productos sólidos. De esta manera surge el proyecto Luckly Box.
             </p>
           </div>
         </div>
       </div>
     </div>
   </div>
-
-
 </template>
 
 <script>
 export default {
-    name: 'Info',
+  name: 'Info',
 
-    data() {
-        return {
-            
-        };
-    },
+  data() {
+    return {
 
-    mounted() {
-        
-    },
+    };
+  },
 
-    methods: {
-        
-    },
+  mounted() {
+
+  },
+
+  methods: {
+
+  },
 };
 </script>
-
-<style lang="scss" scoped>
-
-</style>

@@ -6,9 +6,6 @@ import Faq from '../components/Faq.vue';
 import Footer from '../components/Footer.vue';
 import AboutUs from '../components/AboutUs.vue';
 import Contact from '../components/Contact.vue';
-import Info from '../components/Info.vue';
-
-
 </script>
 
 <template>
@@ -16,7 +13,7 @@ import Info from '../components/Info.vue';
     <Hero />
     <AboutUs />
     <!-- <Benefits /> -->
-    <Info />
+    
     
     <Gallery />
     <Faq />

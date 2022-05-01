@@ -4,6 +4,7 @@ import AboutView from '../views/AboutView.vue'
 import rsView from '../views/3rsView.vue'
 import ContactView from '../views/ContactView.vue'
 import AlliancesView from '../views/AlliancesView.vue'
+import IdentityView from '../views/IdentityView.vue'
 
 
 
@@ -34,6 +35,12 @@ const router = createRouter({
       path: '/alliances',
       name: 'Alliances',
       component: AlliancesView
+    },
+    ,
+    {
+      path: '/identity',
+      name: 'Identity',
+      component: IdentityView
     },
   ]
 })
