@@ -24,7 +24,7 @@ import { RouterLink, RouterView } from 'vue-router'
               <nav :class="{'flex': open, 'hidden': !open}" class="flex-col flex-grow hidden md:flex md:justify-end md:flex-row">
                 <ul class="space-y-2 list-none lg:space-y-0 lg:items-center lg:inline-flex">
                   <li>
-                    <a href="#" class="
+                    <router-link to="conocenos" class="
                   px-2
                   lg:px-6
                   py-6
@@ -35,7 +35,7 @@ import { RouterLink, RouterView } from 'vue-router'
                   md:px-3
                   text-gray-500
                   hover:text-blue-500
-                "> Conocenos </a>
+                "> Conocenos </router-link>
                   </li>
                   <li>
                     <a href="#" class="
@@ -80,7 +80,7 @@ import { RouterLink, RouterView } from 'vue-router'
                 "> Informes </a>
                   </li>
                   <li>
-                    <a href="#" class="
+                    <router-link to="3rs" class="
                   px-2
                   lg:px-6
                   py-6
@@ -91,7 +91,7 @@ import { RouterLink, RouterView } from 'vue-router'
                   md:px-3
                   text-gray-500
                   hover:text-blue-500
-                "> 3Rs </a>
+                "> 3Rs </router-link>
                   </li>
                   <li>
                     <a href="#" class="
