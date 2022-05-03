@@ -5,7 +5,7 @@
   <div class="container px-5 py-24 mx-auto flex sm:flex-nowrap flex-wrap">
     <div class="lg:w-2/3 md:w-1/2 bg-gray-300 rounded-lg overflow-hidden sm:mr-10 p-10 flex items-end justify-start relative">
       <!-- <iframe class="absolute inset-0" style="filter: grayscale(1) contrast(1.2) opacity(0.4);" title="map" marginheight="0" marginwidth="0" scrolling="no" src="https://maps.google.com/maps?width=100%&height=600&hl=en&q=%C4%B0zmir+(My%20Business%20Name)&ie=UTF8&t=&z=14&iwloc=B&output=embed" width="100%" height="100%" frameborder="0"></iframe> -->
-      <img src="../assets/contact-form.jpg" class="absolute inset-0" alt="">
+      <img src="../assets/contact/contact-form.jpg" class="absolute inset-0" alt="">
       <div class="bg-white relative flex flex-wrap py-6 rounded shadow-md">
         <div class="lg:w-1/2 px-6">
           <h2 class="title-font font-semibold text-gray-900 tracking-widest text-xs">Dirrecion</h2>
@@ -15,7 +15,7 @@
           <h2 class="title-font font-semibold text-gray-900 tracking-widest text-xs">Email</h2>
           <a class="text-indigo-500 leading-relaxed">servicios@lucklybox.com</a>
           <h2 class="title-font font-semibold text-gray-900 tracking-widest text-xs mt-4">Telefono</h2>
-          <p class="leading-relaxed">(+1) 123-456-7890</p>
+          <p class="leading-relaxed">(+1) 829-665-3836</p>
         </div>
       </div>
     </div>
@@ -24,21 +24,21 @@
       <p class="leading-relaxed mb-5 text-gray-600">LLena el formulario con la informacion requerida para contactarte.</p>
       <div class="relative mb-4">
         <label for="name" class="leading-7 text-sm text-gray-600">Nombre</label>
-        <input type="text" id="name" name="name" class="w-full bg-white rounded border border-gray-300 focus:border-indigo-500 focus:ring-2 focus:ring-indigo-200 text-base outline-none text-gray-700 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out">
+        <input v-model="first" type="text" id="name" name="name" class="w-full bg-white rounded border border-gray-300 focus:border-indigo-500 focus:ring-2 focus:ring-indigo-200 text-base outline-none text-gray-700 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out">
       </div>
       <div class="relative mb-4">
         <label for="name" class="leading-7 text-sm text-gray-600">Apellido</label>
-        <input type="text" id="name" name="name" class="w-full bg-white rounded border border-gray-300 focus:border-indigo-500 focus:ring-2 focus:ring-indigo-200 text-base outline-none text-gray-700 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out">
+        <input v-model="last" type="text" id="name" name="name" class="w-full bg-white rounded border border-gray-300 focus:border-indigo-500 focus:ring-2 focus:ring-indigo-200 text-base outline-none text-gray-700 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out">
       </div>
       <div class="relative mb-4">
         <label for="email" class="leading-7 text-sm text-gray-600">Email</label>
-        <input type="email" id="email" name="email" class="w-full bg-white rounded border border-gray-300 focus:border-indigo-500 focus:ring-2 focus:ring-indigo-200 text-base outline-none text-gray-700 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out">
+        <input v-model="email" type="email" id="email" name="email" class="w-full bg-white rounded border border-gray-300 focus:border-indigo-500 focus:ring-2 focus:ring-indigo-200 text-base outline-none text-gray-700 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out">
       </div>
       <div class="relative mb-4">
         <label for="email" class="leading-7 text-sm text-gray-600">Telefono</label>
-        <input type="email" id="email" name="email" class="w-full bg-white rounded border border-gray-300 focus:border-indigo-500 focus:ring-2 focus:ring-indigo-200 text-base outline-none text-gray-700 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out">
+        <input v-model="phone" type="text" id="phone" name="phone" class="w-full bg-white rounded border border-gray-300 focus:border-indigo-500 focus:ring-2 focus:ring-indigo-200 text-base outline-none text-gray-700 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out">
       </div>
-      <button class="text-white bg-indigo-500 border-0 py-2 my-4 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg">Button</button>
+      <button @click="sendData()" class="text-white bg-indigo-500 border-0 py-2 my-4 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg">Enviar</button>
       <p class="text-xs text-gray-500 mt-3">Aseguramos que su informacion no sera compartida con nadie mas.</p>
     </div>
   </div>
@@ -47,15 +47,26 @@
 
 <script>
 import Contact from '../components/Contact.vue';
+import { addPerson } from '../data/funcs';
 
 export default {
     name: "Contactview",
     data() {
-        return {};
+        return {
+          name: '',
+          phone: '',
+          last: '',
+          email: ''
+        };
     },
     mounted() {
     },
-    methods: {},
+    methods: {
+      sendData() {
+        addPerson(this.first, this.last, this.email, this.phone)
+        this.$router.push("/");
+      }
+    },
     components: { Contact }
 };
 </script>

@@ -22,7 +22,7 @@
       </div>
       <div class="grid grid-cols-2 gap-5 row-gap-8 lg:col-span-4 md:grid-cols-4">
         <div>
-          <p class="font-semibold tracking-wide text-gray-800">Sendero</p>
+          <p class="font-semibold tracking-wide text-gray-800">Identidad</p>
           <ul class="mt-2 space-y-2">
             <li>
               <a href="/" class="text-gray-600 transition-colors duration-300 hover:text-deep-purple-accent-400">Quienes Somos</a>
@@ -61,14 +61,14 @@
         © Copyright 2022 Lucky Box Inc. Todos los derechos estan reservados.
       </p>
       <div class="flex items-center mt-4 space-x-4 sm:mt-0">
-        <a href="/" class="text-gray-500 transition-colors duration-300 hover:text-deep-purple-accent-400">
+        <a href="https://twitter.com/LBoxrd" class="text-gray-500 transition-colors duration-300 hover:text-deep-purple-accent-400">
           <svg viewBox="0 0 24 24" fill="currentColor" class="h-5">
             <path
               d="M24,4.6c-0.9,0.4-1.8,0.7-2.8,0.8c1-0.6,1.8-1.6,2.2-2.7c-1,0.6-2,1-3.1,1.2c-0.9-1-2.2-1.6-3.6-1.6 c-2.7,0-4.9,2.2-4.9,4.9c0,0.4,0,0.8,0.1,1.1C7.7,8.1,4.1,6.1,1.7,3.1C1.2,3.9,1,4.7,1,5.6c0,1.7,0.9,3.2,2.2,4.1 C2.4,9.7,1.6,9.5,1,9.1c0,0,0,0,0,0.1c0,2.4,1.7,4.4,3.9,4.8c-0.4,0.1-0.8,0.2-1.3,0.2c-0.3,0-0.6,0-0.9-0.1c0.6,2,2.4,3.4,4.6,3.4 c-1.7,1.3-3.8,2.1-6.1,2.1c-0.4,0-0.8,0-1.2-0.1c2.2,1.4,4.8,2.2,7.5,2.2c9.1,0,14-7.5,14-14c0-0.2,0-0.4,0-0.6 C22.5,6.4,23.3,5.5,24,4.6z"
             ></path>
           </svg>
         </a>
-        <a href="/" class="text-gray-500 transition-colors duration-300 hover:text-deep-purple-accent-400">
+        <a href="https://instagram.com/luckybox_rd?igshid=YmMyMTA2M2Y=" class="text-gray-500 transition-colors duration-300 hover:text-deep-purple-accent-400">
           <svg viewBox="0 0 30 30" fill="currentColor" class="h-6">
             <circle cx="15" cy="15" r="4"></circle>
             <path
@@ -76,13 +76,26 @@
             ></path>
           </svg>
         </a>
-        <a href="/" class="text-gray-500 transition-colors duration-300 hover:text-deep-purple-accent-400">
-          <svg viewBox="0 0 24 24" fill="currentColor" class="h-5">
+        <a href="mailto: luckyboxteresponde@gmail.com" class="text-gray-500 transition-colors duration-300 hover:text-deep-purple-accent-400">
+          <svg class="h-5" fill="currentColor" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Pro 6.1.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. --><path d="M464 64C490.5 64 512 85.49 512 112C512 127.1 504.9 141.3 492.8 150.4L275.2 313.6C263.8 322.1 248.2 322.1 236.8 313.6L19.2 150.4C7.113 141.3 0 127.1 0 112C0 85.49 21.49 64 48 64H464zM217.6 339.2C240.4 356.3 271.6 356.3 294.4 339.2L512 176V384C512 419.3 483.3 448 448 448H64C28.65 448 0 419.3 0 384V176L217.6 339.2z"/></svg>
+        </a>
+        <a href="https://www.linkedin.com/in/lucky-box-7ab98b238/" class="text-gray-500 transition-colors duration-300 hover:text-deep-purple-accent-400">
+          <svg class="h-5" fill="currentColor" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Pro 6.1.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. --><path d="M100.28 448H7.4V148.9h92.88zM53.79 108.1C24.09 108.1 0 83.5 0 53.8a53.79 53.79 0 0 1 107.58 0c0 29.7-24.1 54.3-53.79 54.3zM447.9 448h-92.68V302.4c0-34.7-.7-79.2-48.29-79.2-48.29 0-55.69 37.7-55.69 76.7V448h-92.78V148.9h89.08v40.8h1.3c12.4-23.5 42.69-48.3 87.88-48.3 94 0 111.28 61.9 111.28 142.3V448z"/></svg>
+        </a>
+        <a href="https://www.tiktok.com/@luckybox.rd" class="text-gray-500 transition-colors duration-300 hover:text-deep-purple-accent-400">
+          <svg
+          class="h-5"
+            fill="currentColor"
+            xmlns="http://www.w3.org/2000/svg"
+            viewBox="0 0 448 512"
+          >
+            <!--! Font Awesome Pro 6.1.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. -->
             <path
-              d="M22,0H2C0.895,0,0,0.895,0,2v20c0,1.105,0.895,2,2,2h11v-9h-3v-4h3V8.413c0-3.1,1.893-4.788,4.659-4.788 c1.325,0,2.463,0.099,2.795,0.143v3.24l-1.918,0.001c-1.504,0-1.795,0.715-1.795,1.763V11h4.44l-1,4h-3.44v9H22c1.105,0,2-0.895,2-2 V2C24,0.895,23.105,0,22,0z"
-            ></path>
+              d="M448,209.91a210.06,210.06,0,0,1-122.77-39.25V349.38A162.55,162.55,0,1,1,185,188.31V278.2a74.62,74.62,0,1,0,52.23,71.18V0l88,0a121.18,121.18,0,0,0,1.86,22.17h0A122.18,122.18,0,0,0,381,102.39a121.43,121.43,0,0,0,67,20.14Z"
+            />
           </svg>
         </a>
+        
       </div>
     </div>
   </div>

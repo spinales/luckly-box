@@ -63,7 +63,7 @@
 }
 
 .background{
-  background-image: url(../assets/luckly.jpg);
+  background-image: url(../assets/logos/luckly.jpg);
   background-position: center; /* Center the image */
   background-repeat: no-repeat; /* Do not repeat the image */
   background-size: cover; /* Resize the background image to cover the entire container */

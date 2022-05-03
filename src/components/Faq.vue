@@ -5,11 +5,6 @@
   <div class="px-4 py-16 mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-24 lg:px-8 lg:py-20">
     <div class="max-w-xl sm:mx-auto lg:max-w-2xl">
       <div class="max-w-xl mb-10 md:mx-auto sm:text-center lg:max-w-2xl md:mb-12">
-        <div>
-          <p class="inline-block px-3 py-px mb-4 text-xs font-semibold tracking-wider text-teal-900 uppercase rounded-full bg-teal-400">
-            Brand new
-          </p>
-        </div>
         <h2 class="max-w-lg mb-6 font-sans text-3xl font-bold leading-none tracking-tight text-gray-900 sm:text-4xl md:mx-auto">
           <span class="relative inline-block">
             <svg viewBox="0 0 52 24" fill="currentColor" class="absolute top-0 left-0 z-0 hidden w-32 -mt-8 -ml-20 text-blue-gray-100 lg:w-32 lg:-ml-28 lg:-mt-10 sm:block">
@@ -20,12 +15,12 @@
               </defs>
               <rect fill="url(#70326c9b-4a0f-429b-9c76-792941e326d5)" width="52" height="24"></rect>
             </svg>
-            <span class="relative">The</span>
+            <span class="relative"></span>
           </span>
-          quick, brown fox jumps over a lazy dog
+          Preguntas Frecuentes
         </h2>
         <p class="text-base text-gray-700 md:text-lg">
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque rem aperiam, eaque ipsa quae.
+          Encuentra aquí nuestras respuestas a las dudas que recibimos habitualmente de nuestros clientes.
         </p>
       </div>
     </div>
@@ -34,61 +29,94 @@
         <div class="space-y-8">
           <div>
             <p class="mb-4 text-xl font-medium">
-              The quick, brown fox jumps over a lazy dog?
+              ¿Qué recompensas tendré como consumidor?
             </p>
             <p class="text-gray-700">
-              Space, the final frontier. These are the voyages of the Starship Enterprise. Its five-year mission: to explore strange new worlds.<br />
-              <br />
-              Many say exploration is part of our destiny, but it’s actually our duty to future generations.
+              Podrás tentar a la suerte y ganarte una de
+              nuestras tantas sorpresas que tenemos reservadas para ti; descuentos, cupones, planes gratis
+              y muchas otras cosas más en McDonald's, Helados Bon, Smart Fit, Helados Valentino’s, Jumbo,
+              Yao, Taco bell, Domino’s Pizza, Papa John’s y Wendy's.
             </p>
           </div>
           <div>
             <p class="mb-4 text-xl font-medium">
-              The first mate and his Skipper too will do?
+              ¿Dónde se ubican las cabinas de Lucky Box?
             </p>
             <p class="text-gray-700">
-              Well, the way they make shows is, they make one show. That show's called a pilot.<br />
-              <br />
-              Then they show that show to the people who make shows, and on the strength of that one show they decide if they're going to make more shows. Some pilots get picked and become television programs.Some don't, become nothing. She
-              starred in one of the ones that became nothing.
+              Estamos ubicados en: la Ciudad Colonial, Av.
+              España, la Duarte, Haina y el Malecón.
             </p>
           </div>
           <div>
             <p class="mb-4 text-xl font-medium">
-              Is the Space Pope reptilian!?
+              ¿Cómo canjear los tickets en los establecimientos?
             </p>
             <p class="text-gray-700">
-              A flower in my garden, a mystery in my panties. Heart attack never stopped old Big Bear. I didn't even know we were calling him Big Bear.
+              Una vez hayas obtenido tu ticket en una
+              de nuestras cabinas, puedes acercarte sin ningún problema al establecimiento de nuestros
+              socios que te queden más cercanos.<br />
+              <br />
+              Tan solo debes presentar su ticket y dar a conocer su denominación para que pueda ser
+              canjeado, debe percatarse de la fecha de caducidad de su ticket y tratar de darle uso en el
+              tiempo adecuado.
+            </p>
+          </div>
+          <div>
+            <p class="mb-4 text-xl font-medium">
+              ¿Cuáles son los principales fundadores del proyecto?
+            </p>
+            <p class="text-gray-700">
+              Bianne Mejía, Gregori Pinales, Seline López, Juan Feliz, Alice Almonte, Yelime Abad, Génesis
+              Pimentel, Sheyla Tejeda, Waleska Pérez, Nayla Ramos, Altagracia Olivero, Yssamar Pulgar,
+              Yendel Suero, Niurka Made, Helen Ruis, Angely Gómez y Luis Berroa.
             </p>
           </div>
         </div>
         <div class="space-y-8">
           <div>
             <p class="mb-4 text-xl font-medium">
-              How much money you got on you?
+              ¿Cómo funcionan las cabinas?
             </p>
             <p class="text-gray-700">
-              The first mate and his Skipper too will do their very best to make the others comfortable in their tropic island nest.<br />
-              <br />
-              Michael Knight a young loner on a crusade to champion the cause of the innocent. The helpless. The powerless in a world of criminals who operate above the law. Here he comes Here comes Speed Racer. He's a demon on wheels.
+              Funciona con solo insertar la cantidad establecida para el tipo de desecho sólido correspondiente e inmediatamente se estará creando su ticket.
             </p>
           </div>
           <div>
             <p class="mb-4 text-xl font-medium">
-              Galaxies Orion's sword globular star cluster?
+              ¿Cuál es el máximo y mínimo de desechos a depositar en la cabina?
             </p>
             <p class="text-gray-700">
-              A business big enough that it could be listed on the NASDAQ goes belly up. Disappears!<br />
+              Desechos plásticos: mínimo 20/ máximo 40 <br />
               <br />
-              It ceases to exist without me. No, you clearly don't know who you're talking to, so let me clue you in.
+              Botellas de vidrio: mínimo 10/ máximo 50<br />
+              <br />
+              Fundas plásticas (de papitas): mínimo 25/ máximo 50<br />
+              <br />
+              Cajas de cartón: mínimo 15/ máximo 30<br />
+              <br />
+              Latas: mínimo 12/ máximo 36<br />
             </p>
           </div>
           <div>
             <p class="mb-4 text-xl font-medium">
-              When has justice ever been as simple as a rule book?
+              ¿A dónde van los residuos sólidos que se consiguen?
             </p>
             <p class="text-gray-700">
-              This is not about revenge. This is about justice. A lot of things can change in twelve years, Admiral. Well, that's certainly good to know. About four years. I got tired of hearing how young I looked.
+              Actualmente, los residuos sólidos que se
+              consiguen van dirigidos hacia las empresas de los recicladores, quienes tratan de incorporar
+              estos materiales en su producción y reutilizarlos al máximo.
+            </p>
+          </div>
+          <div>
+            <p class="mb-4 text-xl font-medium">
+              ¿Por qué en mi municipio/calle/barrio no hay cabinas para reciclar?
+            </p>
+            <p class="text-gray-700">
+              Porque somos una
+              empresa minúscula por el momento, pero trabajamos incansablemente y de la manera más
+              transparente para que en cada rincón del país, nuestros usuarios puedan contar con una
+              cabina de Lucky Box, que pueda ayudarles a la recogida de sus residuos sólidos a cambio de
+              una bonificación.
             </p>
           </div>
         </div>
