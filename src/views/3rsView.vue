@@ -508,6 +508,8 @@ productos
 
   </div>
 </section>
+
+  <BottomNav />
 </template>
 
 <script>

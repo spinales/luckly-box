@@ -11,13 +11,17 @@
         </div>
       </div>
     
-  </div>
+    </div>
+    
 </section>
-
+<BottomNav />
 </template>
 
 <script>
+import BottomNav from "../components/BottomNav.vue";
+
 export default {
+    components : {BottomNav},
     name: 'Glossary',
 
     data() {

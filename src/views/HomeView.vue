@@ -3,6 +3,7 @@ import Hero from '../components/Hero.vue';
 import Gallery from '../components/Gallery.vue';
 import AboutUs from '../components/AboutUs.vue';
 import Benefits from '../components/Benefits.vue';
+import BottomNav from '../components/BottomNav.vue';
 </script>
 
 <template>
@@ -17,7 +18,7 @@ import Benefits from '../components/Benefits.vue';
           <div class="flex flex-wrap items-center mx-auto max-w-7xl">
               <div class="flex flex-col items-start mb-16 text-left lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 md:mb-0">
                   <span class="mb-8 text-xs font-bold tracking-widest text-blue-600 uppercase"> Organigrama </span>
-                  <p class="mb-12 text-lg leading-relaxed text-gray-500">Curioso sobre nuestra estructura organizacional, a la derecha te mostramos como estamos estructurados.</p>
+                  <p class="mb-12 text-lg leading-relaxed text-gray-500">¿Curioso sobre nuestra estructura organizacional?, a la derecha te mostramos cómo estamos estructurados.</p>
               </div>
               <div class="w-full lg:w-5/6 lg:max-w-lg md:w-1/2 rounded-xl">
                   <div>
@@ -77,4 +78,6 @@ clientes.</p>
   </div>
 </section>
   </main>
+
+  <BottomNav />    
 </template>

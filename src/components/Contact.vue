@@ -19,14 +19,14 @@
 				</a>
 				<h5 class="mb-4 text-4xl font-extrabold leading-none">
 					No tengas miedo al cambio,
-					<br class="hidden md:block" />abrazalo, convierte en parte de esta revolucion
+					<br class="hidden md:block" />abrázalo, convierte en parte de esta revolución
 					<span
 						class="inline-block text-violet-600"
-					>Contactanos</span>
+					>Contáctanos</span>
 				</h5>
 				<p
 					class="mb-6 text-gray-900"
-				>Nos pierda la oportunidad de ser parte del cambio, comunicate con nosotros por cualquiera de las siguientes redes sociales y comienza a mejorar el planeta.</p>
+				>No te pierdas la oportunidad de ser parte del cambio, comunícate con nosotros por cualquiera de las siguientes redes sociales y comienza a mejorar el planeta.</p>
 				<hr class="mb-5 border-gray-300" />
 				<div class="flex items-center space-x-4">
 						<div class="flex items-center">

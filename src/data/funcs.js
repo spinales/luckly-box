@@ -25,5 +25,4 @@ export async function addPerson(firstname, lastname, email, phone) {
     ])
 
     console.log(error);
-
 }

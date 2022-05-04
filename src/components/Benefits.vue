@@ -70,14 +70,6 @@
           </span>
           Crecimiento personal y laboral
         </li>
-        <li class="flex items-start">
-          <span class="mr-1">
-            <svg class="w-5 h-5 mt-px text-purple-700" stroke="currentColor" viewBox="0 0 52 52">
-              <polygon stroke-width="4" stroke-linecap="round" stroke-linejoin="round" fill="none" points="29 13 14 29 25 29 23 39 38 23 27 23"></polygon>
-            </svg>
-          </span>
-          y Muchas cosas mas.
-        </li>
       </ul>
     </div>
   </div>

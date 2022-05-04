@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@supabase/supabase-js": "^1.35.2",
-    "flowbite": "^1.4.1",
+    "flowbite": "^1.4.4",
     "kutty": "^0.6.0",
     "vue": "^3.2.31",
     "vue-router": "^4.0.12"
