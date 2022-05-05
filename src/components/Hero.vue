@@ -50,7 +50,7 @@
 
 
   <section class="flex m-12 items-center py-10 justify-center flex-col">
-    <div class="w-3/5 h-96 background"></div>
+    <div class="w-4/5 h-96 background"></div>
     <h2 class="text-4xl font-normal old">Laborando desde el 2022</h2>
   </section>
 </template>

@@ -42,7 +42,7 @@
               <polygon stroke-width="4" stroke-linecap="round" stroke-linejoin="round" fill="none" points="29 13 14 29 25 29 23 39 38 23 27 23"></polygon>
             </svg>
           </span>
-          Videos en vivo exclusivos
+          Acceso a contenido inédito
         </li>
         <li class="flex items-start">
           <span class="mr-1">
@@ -58,7 +58,7 @@
               <polygon stroke-width="4" stroke-linecap="round" stroke-linejoin="round" fill="none" points="29 13 14 29 25 29 23 39 38 23 27 23"></polygon>
             </svg>
           </span>
-          Acceso a contenido inédito
+          Videos en vivo exclusivos
         </li>
       </ul>
       <ul class="space-y-3">
