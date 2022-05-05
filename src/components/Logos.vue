@@ -36,6 +36,9 @@
     <div class="flex items-center justify-center p-6 ">
       <img src="../assets/logos/papa_john.png" alt="Papa Johns Logo" class="block object-contain w-36" />
     </div>
+    <div class="flex items-center justify-center p-6 ">
+      <img src="../assets/logos/logo-summit.png" alt="Papa Johns Logo" class="block object-contain w-36" />
+    </div>
   </div>
 </section>
 
