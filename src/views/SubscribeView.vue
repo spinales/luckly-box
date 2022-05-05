@@ -5,17 +5,17 @@
       <div class="mt-8">
         <div class="mt-6">
           <div class="space-y-6">
+            <div class="space-y-1">
+              <label for="password" class="block text-sm font-medium text-neutral-600"> Nombre Completo </label>
+              <div class="mt-1">
+                <input v-model="nombre" id="nombre" name="nombre" type="text" required="" placeholder="Su nombre" class="block w-full px-5 py-3 text-base text-neutral-600 placeholder-gray-300 transition duration-500 ease-in-out transform border border-transparent rounded-lg bg-gray-50 focus:outline-none focus:border-transparent focus:ring-2 focus:ring-white focus:ring-offset-2 focus:ring-offset-gray-300">
+              </div>
+            </div>
+
             <div>
               <label for="email" class="block text-sm font-medium text-neutral-600"> Email </label>
               <div class="mt-1">
                 <input v-model="email" id="email" name="email" type="email" autocomplete="email" required="" placeholder="Su Email" class="block w-full px-5 py-3 text-base text-neutral-600 placeholder-gray-300 transition duration-500 ease-in-out transform border border-transparent rounded-lg bg-gray-50 focus:outline-none focus:border-transparent focus:ring-2 focus:ring-white focus:ring-offset-2 focus:ring-offset-gray-300">
-              </div>
-            </div>
-
-            <div class="space-y-1">
-              <label for="password" class="block text-sm font-medium text-neutral-600"> Nombre </label>
-              <div class="mt-1">
-                <input v-model="nombre" id="nombre" name="nombre" type="text" required="" placeholder="Su nombre" class="block w-full px-5 py-3 text-base text-neutral-600 placeholder-gray-300 transition duration-500 ease-in-out transform border border-transparent rounded-lg bg-gray-50 focus:outline-none focus:border-transparent focus:ring-2 focus:ring-white focus:ring-offset-2 focus:ring-offset-gray-300">
               </div>
             </div>
             <div>
