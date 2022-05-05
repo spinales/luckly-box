@@ -23,7 +23,7 @@
             <br />Acceder a ofertas, novedades de productos, promos y muchas otras cosas más regístrate y solo disfruta
           </p>
 
-          <router-link to="/contact"
+          <router-link to="/subscribe"
             class="inline-flex items-center px-8 py-3 mt-8 text-white bg-palet3 border border-palet3 rounded hover:bg-transparent hover:text-palet3 active:text-palet3 focus:outline-none focus:ring"
           >
             <span class="text-sm font-medium">Subscribirse</span>
