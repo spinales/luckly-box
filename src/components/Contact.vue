@@ -6,7 +6,7 @@
 			<div class="lg:pr-10">
 				<a href="/" aria-label="Go Home" title="Logo" class="inline-block mb-5">
 					<div class="flex items-center justify-center w-12 h-12 rounded-full bg-indigo-50">
-						<svg class="w-10 h-10 text-violet-600" stroke="currentColor" viewBox="0 0 52 52">
+						<svg class="w-10 h-10 text-palet3" stroke="currentColor" viewBox="0 0 52 52">
 							<polygon
 								stroke-width="3"
 								stroke-linecap="round"
@@ -21,7 +21,7 @@
 					No tengas miedo al cambio,
 					<br class="hidden md:block" />abrázalo, convierte en parte de esta revolución
 					<span
-						class="inline-block text-violet-600"
+						class="inline-block text-palet3"
 					>Contáctanos</span>
 				</h5>
 				<p

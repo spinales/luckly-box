@@ -27,9 +27,9 @@
       <div class="space-y-6 sm:px-16">
         <div class="flex flex-col max-w-md sm:flex-row">
           <div class="mb-4 mr-4">
-            <div class="flex items-center justify-center w-12 h-12 rounded-full bg-indigo-50">
+            <div class="flex items-center justify-center w-12 h-12 rounded-full bg-palet1">
               <svg
-                class="w-8 h-8 text-violet-600 sm:w-10 sm:h-10"
+                class="w-8 h-8 text-palet3 sm:w-10 sm:h-10"
                 stroke="currentColor"
                 viewBox="0 0 52 52"
               >
@@ -54,9 +54,9 @@
         </div>
         <div class="flex flex-col max-w-md sm:flex-row">
           <div class="mb-4 mr-4">
-            <div class="flex items-center justify-center w-12 h-12 rounded-full bg-indigo-50">
+            <div class="flex items-center justify-center w-12 h-12 rounded-full bg-palet1">
               <svg
-                class="w-8 h-8 text-violet-600 sm:w-10 sm:h-10"
+                class="w-8 h-8 text-palet3 sm:w-10 sm:h-10"
                 stroke="currentColor"
                 viewBox="0 0 52 52"
               >
@@ -84,9 +84,9 @@
         </div>
         <div class="flex flex-col max-w-md sm:flex-row">
           <div class="mb-4 mr-4">
-            <div class="flex items-center justify-center w-12 h-12 rounded-full bg-indigo-50">
+            <div class="flex items-center justify-center w-12 h-12 rounded-full bg-palet1">
               <svg
-                class="w-8 h-8 text-violet-600 sm:w-10 sm:h-10"
+                class="w-8 h-8 text-palet3 sm:w-10 sm:h-10"
                 stroke="currentColor"
                 viewBox="0 0 52 52"
               >
@@ -111,9 +111,9 @@
       <div class="space-y-6 sm:px-16">
         <div class="flex flex-col max-w-md sm:flex-row">
           <div class="mb-4 mr-4">
-            <div class="flex items-center justify-center w-12 h-12 rounded-full bg-indigo-50">
+            <div class="flex items-center justify-center w-12 h-12 rounded-full bg-palet1">
               <svg
-                class="w-8 h-8 text-violet-600 sm:w-10 sm:h-10"
+                class="w-8 h-8 text-palet3 sm:w-10 sm:h-10"
                 stroke="currentColor"
                 viewBox="0 0 52 52"
               >
@@ -138,9 +138,9 @@
 
         <div class="flex flex-col max-w-md sm:flex-row">
           <div class="mb-4 mr-4">
-            <div class="flex items-center justify-center w-12 h-12 rounded-full bg-indigo-50">
+            <div class="flex items-center justify-center w-12 h-12 rounded-full bg-palet1">
               <svg
-                class="w-8 h-8 text-violet-600 sm:w-10 sm:h-10"
+                class="w-8 h-8 text-palet3 sm:w-10 sm:h-10"
                 stroke="currentColor"
                 viewBox="0 0 52 52"
               >
@@ -165,7 +165,7 @@
               ver esto, el joven se empeñó en hacer una comunidad ecológica donde poco a poco se unían
               participantes con distintas habilidades y profesiones que compartían el mismo pensar acerca
               del deterioro del medio ambiente en diversas zonas de Santo Domingo, producto del mal
-              manejo de los productos sólidos. De esta manera surge el proyecto Luckly Box.
+              manejo de los productos sólidos. De esta manera surge el proyecto Lucky Box.
             </p>
           </div>
         </div>

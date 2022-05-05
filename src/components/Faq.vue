@@ -5,7 +5,7 @@
   <div class="px-4 py-16 mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-24 lg:px-8 lg:py-20">
     <div class="max-w-xl sm:mx-auto lg:max-w-2xl">
       <div class="max-w-xl mb-10 md:mx-auto sm:text-center lg:max-w-2xl md:mb-12">
-        <h2 class="max-w-lg mb-6 font-sans text-3xl font-bold leading-none tracking-tight text-gray-900 sm:text-4xl md:mx-auto">
+        <h2 class="max-w-lg mb-6 font-sans text-3xl font-bold leading-none tracking-tight text-palet3 sm:text-4xl md:mx-auto">
           <span class="relative inline-block">
             <svg viewBox="0 0 52 24" fill="currentColor" class="absolute top-0 left-0 z-0 hidden w-32 -mt-8 -ml-20 text-blue-gray-100 lg:w-32 lg:-ml-28 lg:-mt-10 sm:block">
               <defs>
@@ -28,7 +28,7 @@
       <div class="grid grid-cols-1 gap-16 row-gap-8 lg:grid-cols-2">
         <div class="space-y-8">
           <div>
-            <p class="mb-4 text-xl font-medium">
+            <p class="mb-4 text-xl font-medium text-palet4">
               ¿Qué recompensas tendré como consumidor?
             </p>
             <p class="text-gray-700">
@@ -39,7 +39,7 @@
             </p>
           </div>
           <div>
-            <p class="mb-4 text-xl font-medium">
+            <p class="mb-4 text-xl font-medium text-palet4">
               ¿Dónde se ubican las cabinas de Lucky Box?
             </p>
             <p class="text-gray-700">
@@ -48,7 +48,7 @@
             </p>
           </div>
           <div>
-            <p class="mb-4 text-xl font-medium">
+            <p class="mb-4 text-xl font-medium text-palet4">
               ¿Cómo canjear los tickets en los establecimientos?
             </p>
             <p class="text-gray-700">
@@ -62,7 +62,7 @@
             </p>
           </div>
           <div>
-            <p class="mb-4 text-xl font-medium">
+            <p class="mb-4 text-xl font-medium text-palet4">
               ¿Cuáles son los principales fundadores del proyecto?
             </p>
             <p class="text-gray-700">
@@ -74,7 +74,7 @@
         </div>
         <div class="space-y-8">
           <div>
-            <p class="mb-4 text-xl font-medium">
+            <p class="mb-4 text-xl font-medium text-palet4">
               ¿Cómo funcionan las cabinas?
             </p>
             <p class="text-gray-700">
@@ -82,7 +82,7 @@
             </p>
           </div>
           <div>
-            <p class="mb-4 text-xl font-medium">
+            <p class="mb-4 text-xl font-medium text-palet4">
               ¿Cuál es el máximo y mínimo de desechos a depositar en la cabina?
             </p>
             <p class="text-gray-700">
@@ -98,7 +98,7 @@
             </p>
           </div>
           <div>
-            <p class="mb-4 text-xl font-medium">
+            <p class="mb-4 text-xl font-medium text-palet4">
               ¿A dónde van los residuos sólidos que se consiguen?
             </p>
             <p class="text-gray-700">
@@ -108,7 +108,7 @@
             </p>
           </div>
           <div>
-            <p class="mb-4 text-xl font-medium">
+            <p class="mb-4 text-xl font-medium text-palet4">
               ¿Por qué en mi municipio/calle/barrio no hay cabinas para reciclar?
             </p>
             <p class="text-gray-700">

@@ -23,7 +23,7 @@
         <h2 class="font-medium title-font tracking-widest text-gray-900 mb-4 text-sm text-center sm:text-left">Beneficios del reciclaje:</h2>
         <div class="flex flex-col sm:items-start sm:text-left text-center items-center -mb-1 space-y-2.5">
           <p>
-            <span class="bg-green-100 text-green-500 w-6 h-6 mr-2 rounded-full inline-flex items-center justify-center">
+            <span class="bg-green-100 text-palet3 w-6 h-6 mr-2 rounded-full inline-flex items-center justify-center">
               <svg
                 class="w-3 h-3"
                 xmlns="http://www.w3.org/2000/svg"
@@ -38,7 +38,7 @@
             </span>Preservación de los recursos naturales.
           </p>
           <p>
-            <span class="bg-green-100 text-green-500 w-6 h-6 mr-2 rounded-full inline-flex items-center justify-center">
+            <span class="bg-green-100 text-palet3 w-6 h-6 mr-2 rounded-full inline-flex items-center justify-center">
               <svg
                 class="w-3 h-3"
                 xmlns="http://www.w3.org/2000/svg"
@@ -53,7 +53,7 @@
             </span>Disminución de la contaminación.
           </p>
           <p>
-            <span class="bg-green-100 text-green-500 w-6 h-6 mr-2 rounded-full inline-flex items-center justify-center">
+            <span class="bg-green-100 text-palet3 w-6 h-6 mr-2 rounded-full inline-flex items-center justify-center">
               <svg
                 class="w-3 h-3"
                 xmlns="http://www.w3.org/2000/svg"
@@ -68,7 +68,7 @@
             </span>Ahorro de energía
           </p>
           <p>
-            <span class="bg-green-100 text-green-500 w-6 h-6 mr-2 rounded-full inline-flex items-center justify-center">
+            <span class="bg-green-100 text-palet3 w-6 h-6 mr-2 rounded-full inline-flex items-center justify-center">
               <svg
                 class="w-3 h-3"
                 xmlns="http://www.w3.org/2000/svg"
@@ -88,7 +88,7 @@
         <h2 class="font-medium title-font tracking-widest text-gray-900 mb-4 text-sm text-center sm:text-left">Los principales materiales que podemos reciclar en casa son:</h2>
         <div class="flex flex-col sm:items-start sm:text-left text-center items-center -mb-1 space-y-2.5">
           <p>
-            <span class="bg-green-100 text-green-500 w-6 h-6 mr-2 rounded-full inline-flex items-center justify-center">
+            <span class="bg-green-100 text-palet3 w-6 h-6 mr-2 rounded-full inline-flex items-center justify-center">
               <svg
                 class="w-3 h-3"
                 xmlns="http://www.w3.org/2000/svg"
@@ -103,7 +103,7 @@
             </span>Botellas de agua
           </p>
           <p>
-            <span class="bg-green-100 text-green-500 w-6 h-6 mr-2 rounded-full inline-flex items-center justify-center">
+            <span class="bg-green-100 text-palet3 w-6 h-6 mr-2 rounded-full inline-flex items-center justify-center">
               <svg
                 class="w-3 h-3"
                 xmlns="http://www.w3.org/2000/svg"
@@ -118,7 +118,7 @@
             </span>Latas de Aluminio
           </p>
           <p>
-            <span class="bg-green-100 text-green-500 w-6 h-6 mr-2 rounded-full inline-flex items-center justify-center">
+            <span class="bg-green-100 text-palet3 w-6 h-6 mr-2 rounded-full inline-flex items-center justify-center">
               <svg
                 class="w-3 h-3"
                 xmlns="http://www.w3.org/2000/svg"
@@ -133,7 +133,7 @@
             </span>Envases plásticos como botellas, potes de champú, bolsas de snacks, tapas, etc
           </p>
           <p>
-            <span class="bg-green-100 text-green-500 w-6 h-6 mr-2 rounded-full inline-flex items-center justify-center">
+            <span class="bg-green-100 text-palet3 w-6 h-6 mr-2 rounded-full inline-flex items-center justify-center">
               <svg
                 class="w-3 h-3"
                 xmlns="http://www.w3.org/2000/svg"
@@ -153,7 +153,7 @@
         <h2 class="font-medium title-font tracking-widest text-gray-900 mb-4 text-sm text-center sm:text-left">Para poder reciclar en casa:</h2>
         <div class="flex flex-col sm:items-start sm:text-left text-center items-center -mb-1 space-y-2.5">
           <p>
-            <span class="bg-green-100 text-green-500 w-6 h-6 mr-2 rounded-full inline-flex items-center justify-center">
+            <span class="bg-green-100 text-palet3 w-6 h-6 mr-2 rounded-full inline-flex items-center justify-center">
               <svg
                 class="w-3 h-3"
                 xmlns="http://www.w3.org/2000/svg"
@@ -168,7 +168,7 @@
             </span>Separa los residuos en recipientes independientes (plásticos, papel, vidrio y aluminio).
           </p>
           <p>
-            <span class="bg-green-100 text-green-500 w-6 h-6 mr-2 rounded-full inline-flex items-center justify-center">
+            <span class="bg-green-100 text-palet3 w-6 h-6 mr-2 rounded-full inline-flex items-center justify-center">
               <svg
                 class="w-3 h-3"
                 xmlns="http://www.w3.org/2000/svg"
@@ -183,7 +183,7 @@
             </span>Deposita los residuos en el contenedor correspondiente.
           </p>
           <p>
-            <span class="bg-green-100 text-green-500 w-6 h-6 mr-2 rounded-full inline-flex items-center justify-center">
+            <span class="bg-green-100 text-palet3 w-6 h-6 mr-2 rounded-full inline-flex items-center justify-center">
               <svg
                 class="w-3 h-3"
                 xmlns="http://www.w3.org/2000/svg"
@@ -198,7 +198,7 @@
             </span>Limpia los envases de comida antes de tirarlos al contenedor.
           </p>
           <p>
-            <span class="bg-green-100 text-green-500 w-6 h-6 mr-2 rounded-full inline-flex items-center justify-center">
+            <span class="bg-green-100 text-palet3 w-6 h-6 mr-2 rounded-full inline-flex items-center justify-center">
               <svg
                 class="w-3 h-3"
                 xmlns="http://www.w3.org/2000/svg"
@@ -221,7 +221,7 @@
         <h2 class="font-medium title-font tracking-widest text-gray-900 mb-4 text-sm text-center sm:text-left">LOS PRINCIPALES BENEFICIOS DE LA REUTILIZACIÓN DE PRODUCTOS SON:</h2>
         <div class="flex flex-col sm:items-start sm:text-left text-center items-center -mb-1 space-y-2.5">
           <p>
-            <span class="bg-green-100 text-green-500 w-6 h-6 mr-2 rounded-full inline-flex items-center justify-center">
+            <span class="bg-green-100 text-palet3 w-6 h-6 mr-2 rounded-full inline-flex items-center justify-center">
               <svg
                 class="w-3 h-3"
                 xmlns="http://www.w3.org/2000/svg"
@@ -236,7 +236,7 @@
             </span>Disminuye la generación de desechos
           </p>
           <p>
-            <span class="bg-green-100 text-green-500 w-6 h-6 mr-2 rounded-full inline-flex items-center justify-center">
+            <span class="bg-green-100 text-palet3 w-6 h-6 mr-2 rounded-full inline-flex items-center justify-center">
               <svg
                 class="w-3 h-3"
                 xmlns="http://www.w3.org/2000/svg"
@@ -251,7 +251,7 @@
             </span>Reduce la contaminación del aire que genera la producción de nuevos materiales.
           </p>
           <p>
-            <span class="bg-green-100 text-green-500 w-6 h-6 mr-2 rounded-full inline-flex items-center justify-center">
+            <span class="bg-green-100 text-palet3 w-6 h-6 mr-2 rounded-full inline-flex items-center justify-center">
               <svg
                 class="w-3 h-3"
                 xmlns="http://www.w3.org/2000/svg"
@@ -266,7 +266,7 @@
             </span>Reduce la contaminación del agua que genera la producción de nuevos materiales.
           </p>
           <p>
-            <span class="bg-green-100 text-green-500 w-6 h-6 mr-2 rounded-full inline-flex items-center justify-center">
+            <span class="bg-green-100 text-palet3 w-6 h-6 mr-2 rounded-full inline-flex items-center justify-center">
               <svg
                 class="w-3 h-3"
                 xmlns="http://www.w3.org/2000/svg"
@@ -282,7 +282,7 @@
 producto.
           </p>
           <p>
-            <span class="bg-green-100 text-green-500 w-6 h-6 mr-2 rounded-full inline-flex items-center justify-center">
+            <span class="bg-green-100 text-palet3 w-6 h-6 mr-2 rounded-full inline-flex items-center justify-center">
               <svg
                 class="w-3 h-3"
                 xmlns="http://www.w3.org/2000/svg"
@@ -303,7 +303,7 @@ productos
         <h2 class="font-medium title-font tracking-widest text-gray-900 mb-4 text-sm text-center sm:text-left">COMO SE PUEDE REUTILIZAR EN CASA:</h2>
         <div class="flex flex-col sm:items-start sm:text-left text-center items-center -mb-1 space-y-2.5">
           <p>
-            <span class="bg-green-100 text-green-500 w-6 h-6 mr-2 rounded-full inline-flex items-center justify-center">
+            <span class="bg-green-100 text-palet3 w-6 h-6 mr-2 rounded-full inline-flex items-center justify-center">
               <svg
                 class="w-3 h-3"
                 xmlns="http://www.w3.org/2000/svg"
@@ -318,7 +318,7 @@ productos
             </span>Restos de café
           </p>
           <p>
-            <span class="bg-green-100 text-green-500 w-6 h-6 mr-2 rounded-full inline-flex items-center justify-center">
+            <span class="bg-green-100 text-palet3 w-6 h-6 mr-2 rounded-full inline-flex items-center justify-center">
               <svg
                 class="w-3 h-3"
                 xmlns="http://www.w3.org/2000/svg"
@@ -333,7 +333,7 @@ productos
             </span>Cepillos de dientes.
           </p>
           <p>
-            <span class="bg-green-100 text-green-500 w-6 h-6 mr-2 rounded-full inline-flex items-center justify-center">
+            <span class="bg-green-100 text-palet3 w-6 h-6 mr-2 rounded-full inline-flex items-center justify-center">
               <svg
                 class="w-3 h-3"
                 xmlns="http://www.w3.org/2000/svg"
@@ -348,7 +348,7 @@ productos
             </span>Reutilizar el agua.
           </p>
           <p>
-            <span class="bg-green-100 text-green-500 w-6 h-6 mr-2 rounded-full inline-flex items-center justify-center">
+            <span class="bg-green-100 text-palet3 w-6 h-6 mr-2 rounded-full inline-flex items-center justify-center">
               <svg
                 class="w-3 h-3"
                 xmlns="http://www.w3.org/2000/svg"
@@ -363,7 +363,7 @@ productos
             </span>Revistas y folletos.
           </p>
           <p>
-            <span class="bg-green-100 text-green-500 w-6 h-6 mr-2 rounded-full inline-flex items-center justify-center">
+            <span class="bg-green-100 text-palet3 w-6 h-6 mr-2 rounded-full inline-flex items-center justify-center">
               <svg
                 class="w-3 h-3"
                 xmlns="http://www.w3.org/2000/svg"
@@ -378,7 +378,7 @@ productos
             </span>Latas de comida y bebida.
           </p>
           <p>
-            <span class="bg-green-100 text-green-500 w-6 h-6 mr-2 rounded-full inline-flex items-center justify-center">
+            <span class="bg-green-100 text-palet3 w-6 h-6 mr-2 rounded-full inline-flex items-center justify-center">
               <svg
                 class="w-3 h-3"
                 xmlns="http://www.w3.org/2000/svg"
@@ -393,7 +393,7 @@ productos
             </span>Anillas de latas de refresco.
           </p>
           <p>
-            <span class="bg-green-100 text-green-500 w-6 h-6 mr-2 rounded-full inline-flex items-center justify-center">
+            <span class="bg-green-100 text-palet3 w-6 h-6 mr-2 rounded-full inline-flex items-center justify-center">
               <svg
                 class="w-3 h-3"
                 xmlns="http://www.w3.org/2000/svg"
@@ -408,7 +408,7 @@ productos
             </span>Sobras de pan duro.
           </p>
           <p>
-            <span class="bg-green-100 text-green-500 w-6 h-6 mr-2 rounded-full inline-flex items-center justify-center">
+            <span class="bg-green-100 text-palet3 w-6 h-6 mr-2 rounded-full inline-flex items-center justify-center">
               <svg
                 class="w-3 h-3"
                 xmlns="http://www.w3.org/2000/svg"
@@ -428,7 +428,7 @@ productos
         <h2 class="font-medium title-font tracking-widest text-gray-900 mb-4 text-sm text-center sm:text-left">MATERIALES PRINCIPALES PARA REUTILIZAR EN CASA:</h2>
         <div class="flex flex-col sm:items-start sm:text-left text-center items-center -mb-1 space-y-2.5">
           <p>
-            <span class="bg-green-100 text-green-500 w-6 h-6 mr-2 rounded-full inline-flex items-center justify-center">
+            <span class="bg-green-100 text-palet3 w-6 h-6 mr-2 rounded-full inline-flex items-center justify-center">
               <svg
                 class="w-3 h-3"
                 xmlns="http://www.w3.org/2000/svg"
@@ -443,7 +443,7 @@ productos
             </span>Tarros de vidrio.
           </p>
           <p>
-            <span class="bg-green-100 text-green-500 w-6 h-6 mr-2 rounded-full inline-flex items-center justify-center">
+            <span class="bg-green-100 text-palet3 w-6 h-6 mr-2 rounded-full inline-flex items-center justify-center">
               <svg
                 class="w-3 h-3"
                 xmlns="http://www.w3.org/2000/svg"
@@ -458,7 +458,7 @@ productos
             </span>Cepillos de dientes.
           </p>
           <p>
-            <span class="bg-green-100 text-green-500 w-6 h-6 mr-2 rounded-full inline-flex items-center justify-center">
+            <span class="bg-green-100 text-palet3 w-6 h-6 mr-2 rounded-full inline-flex items-center justify-center">
               <svg
                 class="w-3 h-3"
                 xmlns="http://www.w3.org/2000/svg"
@@ -473,7 +473,7 @@ productos
             </span>Restos de alimentos.
           </p>
           <p>
-            <span class="bg-green-100 text-green-500 w-6 h-6 mr-2 rounded-full inline-flex items-center justify-center">
+            <span class="bg-green-100 text-palet3 w-6 h-6 mr-2 rounded-full inline-flex items-center justify-center">
               <svg
                 class="w-3 h-3"
                 xmlns="http://www.w3.org/2000/svg"
@@ -488,7 +488,7 @@ productos
             </span>Abono.
           </p>
           <p>
-            <span class="bg-green-100 text-green-500 w-6 h-6 mr-2 rounded-full inline-flex items-center justify-center">
+            <span class="bg-green-100 text-palet3 w-6 h-6 mr-2 rounded-full inline-flex items-center justify-center">
               <svg
                 class="w-3 h-3"
                 xmlns="http://www.w3.org/2000/svg"

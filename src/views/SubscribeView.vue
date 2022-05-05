@@ -1,7 +1,7 @@
 <template>
-    <section class="text-blue-700">
+    <section class="text-palet3 bg-palet1">
   <div class="container items-center px-5 py-12 lg:px-20">
-    <div class="flex flex-col w-full max-w-md p-10 mx-auto my-6 transition duration-500 ease-in-out transform bg-white rounded-lg md:mt-0">
+    <div class="flex flex-col w-full max-w-md p-10 mx-auto my-6 transition duration-500 ease-in-out transform bg-white rounded-lg md:mt-0 shadow-lg">
       <div class="mt-8">
         <div class="mt-6">
           <div class="space-y-6">
@@ -19,7 +19,7 @@
               </div>
             </div>
             <div>
-              <button @click="sendData()" class="flex items-center justify-center w-full px-10 py-4 text-base font-medium text-center text-white transition duration-500 ease-in-out transform bg-blue-600 rounded-xl hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500">Subscribirme</button>
+              <button @click="sendData()" class="flex items-center justify-center w-full px-10 py-4 text-base font-medium text-center text-palet2 transition duration-500 ease-in-out transform bg-palet3 hover:bg-palet2 rounded-xl hover:text-palet3 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500">Subscribirme</button>
             </div>
           </div>
         </div>

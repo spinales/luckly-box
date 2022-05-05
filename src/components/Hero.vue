@@ -24,7 +24,7 @@
           </p>
 
           <router-link to="/contact"
-            class="inline-flex items-center px-8 py-3 mt-8 text-white bg-indigo-600 border border-indigo-600 rounded hover:bg-transparent hover:text-indigo-600 active:text-indigo-500 focus:outline-none focus:ring"
+            class="inline-flex items-center px-8 py-3 mt-8 text-white bg-palet3 border border-palet3 rounded hover:bg-transparent hover:text-palet3 active:text-palet3 focus:outline-none focus:ring"
           >
             <span class="text-sm font-medium">Subscribirse</span>
 

@@ -30,11 +30,11 @@ import { RouterLink, RouterView } from 'vue-router'
                   py-6
                   text-sm
                   border-b-2 border-transparent
-                  hover:border-blue-600
+                  hover:border-palet3
                   leading-[22px]
                   md:px-3
                   text-gray-500
-                  hover:text-blue-500
+                  hover:text-palet3
                 "> Conocenos </router-link>
                   </li>
                   <li>
@@ -44,11 +44,11 @@ import { RouterLink, RouterView } from 'vue-router'
                   py-6
                   text-sm
                   border-b-2 border-transparent
-                  hover:border-blue-600
+                  hover:border-palet3
                   leading-[22px]
                   md:px-3
                   text-gray-500
-                  hover:text-blue-500
+                  hover:text-palet3
                 "> Identidad </router-link>
                   </li>
                   <li>
@@ -58,11 +58,11 @@ import { RouterLink, RouterView } from 'vue-router'
                   py-6
                   text-sm
                   border-b-2 border-transparent
-                  hover:border-blue-600
+                  hover:border-palet3
                   leading-[22px]
                   md:px-3
                   text-gray-500
-                  hover:text-blue-500
+                  hover:text-palet3
                 "> Alianzas </router-link>
                   </li>
                   <li>
@@ -72,11 +72,11 @@ import { RouterLink, RouterView } from 'vue-router'
                   py-6
                   text-sm
                   border-b-2 border-transparent
-                  hover:border-blue-600
+                  hover:border-palet3
                   leading-[22px]
                   md:px-3
                   text-gray-500
-                  hover:text-blue-500
+                  hover:text-palet3
                 "> Informes </router-link>
                   </li>
                   <li>
@@ -86,11 +86,11 @@ import { RouterLink, RouterView } from 'vue-router'
                   py-6
                   text-sm
                   border-b-2 border-transparent
-                  hover:border-blue-600
+                  hover:border-palet3
                   leading-[22px]
                   md:px-3
                   text-gray-500
-                  hover:text-blue-500
+                  hover:text-palet3
                 "> 3Rs </router-link>
                   </li>
                   <li>
@@ -100,11 +100,11 @@ import { RouterLink, RouterView } from 'vue-router'
                   py-6
                   text-sm
                   border-b-2 border-transparent
-                  hover:border-blue-600
+                  hover:border-palet3
                   leading-[22px]
                   md:px-3
                   text-gray-500
-                  hover:text-blue-500
+                  hover:text-palet3
                 "> Contacto </router-link>
                   </li>
                 </ul>

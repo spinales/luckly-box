@@ -1,6 +1,8 @@
+// Librarys
 import { createRouter, createWebHistory } from 'vue-router'
+
+// Views
 import HomeView from '../views/HomeView.vue'
-import AboutView from '../views/AboutView.vue'
 import rsView from '../views/3rsView.vue'
 import ContactView from '../views/ContactView.vue'
 import AlliancesView from '../views/AlliancesView.vue'
@@ -10,6 +12,7 @@ import FaqView from '../views/FaqView.vue'
 import GlossaryView from '../views/GlossaryView.vue'
 import SubscribeView from '../views/SubscribeView.vue'
 
+
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
   routes: [
@@ -17,11 +20,6 @@ const router = createRouter({
       path: '/',
       name: 'home',
       component: HomeView
-    },
-    {
-      path: '/about',
-      name: 'about',
-      component: AboutView
     },
     {
       path: '/3rs',

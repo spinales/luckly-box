@@ -20,11 +20,11 @@
                 responsabilidad social y un bienestar colectivo, promoviendo el reciclaje. Como compañía
                 estamos comprometidos a seguir innovando, a pesar de ser nuevos en el mercado, ofreciendo
                 excelencia, buenas experiencias y agregado a ello, algo de valor para nuestros consumidores.</p>
-                <span class="inline-block h-1 w-10 rounded bg-indigo-500 mt-8 mb-6"></span>
+                <span class="inline-block h-1 w-10 rounded bg-palet3 mt-8 mb-6"></span>
                 <h2
                     class="text-gray-900 font-medium title-font tracking-wider text-sm"
-                >Luckly Box</h2>
-                <p class="text-gray-500">Gregory Pinales</p>
+                >Lucky Box</h2>
+                <p class="text-gray-500">Founders</p>
             </div>
         </div>
     </section>
