@@ -1,7 +1,9 @@
 <template>
     <Contact />
 
-    <h1 class="p-4 text-5xl font-light">Estaciones de Lucky Box</h1>
+    <div class="m-8 flex justify-items-center justify-center">
+      <h1 class="p-4 text-5xl font-bold text-palet3">Nuestras Localidades</h1>
+    </div>
     <div class="flex flex-1 w-full justify-center justify-items-center" style="height: 600px;">
       
       <GMapMap
