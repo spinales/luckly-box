@@ -25,6 +25,6 @@ module.exports = {
   },
   plugins: [
     require('flowbite/plugin'),
-    require("kutty")
+    require("kutty"),
   ],
 }
