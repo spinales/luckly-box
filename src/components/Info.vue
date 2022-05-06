@@ -46,9 +46,7 @@
           <div>
             <h6 class="mb-3 text-xl font-bold leading-5">Misión</h6>
             <p class="text-md text-gray-900">
-              Somos una entidad construida por jóvenes soñadores y comprometidos a promover el cambio
-              en nuestro país, impulsados hacia una misma causa y con el anhelo de ver nuestro entorno
-              limpio.
+              Somos una entidad construida por jóvenes soñadores y comprometidos a promover el cambio en nuestro país, impulsados hacia una misma causa; “preservar el medio ambiente” y a la misma vez con el anhelo de ver nuestro entorno limpio.
             </p>
           </div>
         </div>
@@ -73,12 +71,7 @@
           <div>
             <h6 class="mb-3 text-xl font-bold leading-5">Visión</h6>
             <p class="text-md text-gray-900">
-              Ser líderes en innovación ecológica, para así lograr ser más reconocidos y llegar a más público
-              logrando un cambio positivo para nuestro medio ambiente. Ser reconocida como una
-              organización líder y consolidada en materia ambiental, comprometida con el mejoramiento de
-              la calidad de vida de la población y el manejo sostenible de los desechos sólidos. Llegar a
-              convertirnos en una empresa preferida por los dominicanos, con escala a poder medirnos con
-              los demás competidores.
+              Ser reconocida como una organización líder y consolidada en innovación ecológica, comprometida con el mejoramiento de la calidad de vida de la población y el manejo sostenible de los desechos sólidos.
             </p>
           </div>
         </div>

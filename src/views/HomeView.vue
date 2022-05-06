@@ -10,6 +10,11 @@ import BottomNav from '../components/BottomNav.vue';
   <main>
     <Hero />
     <AboutUs />
+
+    <video controls class="m-8 mx-auto">
+      <source src="https://emztcswqrpfezsftriuw.supabase.co/storage/v1/object/public/videos/IMG_5358.mp4" type="video/mp4">
+    </video>
+
     <Gallery />
 
 
@@ -78,10 +83,6 @@ clientes.</p>
   </div>
 </section>
   </main>
-
-  <video controls>
-    <source src="https://emztcswqrpfezsftriuw.supabase.co/storage/v1/object/public/videos/IMG_5358.mp4" type="video/mp4">
-  </video>
 
   <BottomNav />    
 </template>

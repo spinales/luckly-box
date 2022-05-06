@@ -28,7 +28,7 @@
 				impacto que generará Lucky Box en la sociedad dominicana.
 			</p>
 			<p class="my-4 text-lg">
-				Quieres conocer aun mas informacion, presiona el siguiente
+				¿Quieres conocer aún más información? Presiona el siguiente
 				<a
 					href="https://drive.google.com/file/d/1q3gXHH6dO8RjMrQVrPDw_kW-b0jom0OZ/view"
 					class="underline text-palet3"
