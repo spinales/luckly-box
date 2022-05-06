@@ -88,9 +88,30 @@ export default {
           markers: [
             {
               position: {
-                lat: 51.093048, lng: 6.842120
+                lat: 18.468597, lng: -69.845453,
               },
-            }, // Along list of clusters
+            },
+            {
+              position: {
+                lat: 18.473072, lng: -69.886461,
+              },
+            },
+            {
+              position: {
+                lat: 18.505733, lng: -69.909231,
+              },
+            },
+            {
+
+              position: {
+                lat: 18.416137, lng: -70.030433,
+              },
+            },
+            {
+              position: {
+                lat: 18.427040, lng: -69.975551,
+              },
+            }
           ]
         };
     },

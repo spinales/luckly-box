@@ -15,6 +15,30 @@ import BottomNav from '../components/BottomNav.vue';
       <source src="https://emztcswqrpfezsftriuw.supabase.co/storage/v1/object/public/videos/IMG_5358.mp4" type="video/mp4">
     </video>
 
+    <div class="flex justify-center justify-items-center">
+      <router-link to="/form"
+            class="inline-flex items-center px-8 py-3 my-8 text-white bg-palet3 border border-palet3 rounded hover:bg-transparent hover:text-palet3 active:text-palet3 focus:outline-none focus:ring"
+          >
+            <span class="text-sm font-medium">¡Quiero participar!</span>
+
+            <svg
+              class="w-5 h-5 ml-3"
+              xmlns="http://www.w3.org/2000/svg"
+              fill="none"
+              viewBox="0 0 24 24"
+              stroke="currentColor"
+            >
+              <path
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="2"
+                d="M17 8l4 4m0 0l-4 4m4-4H3"
+              />
+            </svg>
+    </router-link>
+    </div>
+    
+
     <Gallery />
 
 
@@ -28,7 +52,7 @@ import BottomNav from '../components/BottomNav.vue';
               <div class="w-full lg:w-5/6 lg:max-w-lg md:w-1/2 rounded-xl">
                   <div>
                       <!-- <embed class="object-cover object-center mx-auto rounded-lg shadow-2xl" alt="hero" src="https://drive.google.com/file/d/1XZYq76hrwfe2IgQxHs0tSaQOD0yxYMQg/preview" type="application/pdf"> -->
-                      <iframe class="object-cover object-center mx-auto rounded-lg shadow-2xl" src="https://drive.google.com/file/d/1XZYq76hrwfe2IgQxHs0tSaQOD0yxYMQg/preview" width="640" height="480"></iframe>
+                      <iframe class="object-cover object-center mx-auto rounded-lg shadow-2xl" src="https://drive.google.com/file/d/1Fn9LZsPpUDKMuVZLG4wIfyIepS03jxJ4/preview" width="640" height="480"></iframe>
                   </div>
               </div>
           </div>

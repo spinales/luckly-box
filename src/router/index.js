@@ -11,6 +11,7 @@ import ReportsView from '../views/ReportsView.vue'
 import FaqView from '../views/FaqView.vue'
 import GlossaryView from '../views/GlossaryView.vue'
 import SubscribeView from '../views/SubscribeView.vue'
+import FormView from '../views/FormView.vue'
 
 
 const router = createRouter({
@@ -60,6 +61,11 @@ const router = createRouter({
       path: '/subscribe',
       name: 'Subscribe',
       component: SubscribeView
+    },
+    {
+      path: '/form',
+      name: 'Form',
+      component: FormView
     },
   ]
 })
