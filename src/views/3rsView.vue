@@ -8,6 +8,31 @@
           <source src="https://emztcswqrpfezsftriuw.supabase.co/storage/v1/object/public/videos/IMG_2461.mp4" type="video/mp4">
         </video>
       </div>
+
+      <div class="flex justify-center justify-items-center">
+      <a href="https://docs.google.com/forms/d/e/1FAIpQLSf9gDwKGDDnwPfQY8XK-YPmYAhB2NOBgLK7OWwimdJJ5T7BGQ/viewform?usp=sf_link"
+            class="inline-flex items-center px-8 py-3 my-8 text-white bg-palet3 border border-palet3 rounded hover:bg-transparent hover:text-palet3 active:text-palet3 focus:outline-none focus:ring"
+          >
+            <span class="text-sm font-medium">Registrarme</span>
+
+            <svg
+              class="w-5 h-5 ml-3"
+              xmlns="http://www.w3.org/2000/svg"
+              fill="none"
+              viewBox="0 0 24 24"
+              stroke="currentColor"
+            >
+              <path
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="2"
+                d="M17 8l4 4m0 0l-4 4m4-4H3"
+              />
+            </svg>
+    </a>
+    </div>
+
+
       <div class="flex flex-col sm:flex-row mt-10">
         <div class="sm:w-2/3 sm:pl-8 sm:py-8 mt-4 pt-4 sm:mt-0 text-center sm:text-left mr-2">
         <h2 class="font-medium title-font mt-4 text-gray-900 text-xl mb-2">Reutiliza</h2>
@@ -512,28 +537,7 @@ productos
   </div>
 </section>
 
-  <div class="flex justify-center justify-items-center">
-      <a href="https://docs.google.com/forms/d/e/1FAIpQLSf9gDwKGDDnwPfQY8XK-YPmYAhB2NOBgLK7OWwimdJJ5T7BGQ/viewform?usp=sf_link"
-            class="inline-flex items-center px-8 py-3 my-8 text-white bg-palet3 border border-palet3 rounded hover:bg-transparent hover:text-palet3 active:text-palet3 focus:outline-none focus:ring"
-          >
-            <span class="text-sm font-medium">Registrarme</span>
-
-            <svg
-              class="w-5 h-5 ml-3"
-              xmlns="http://www.w3.org/2000/svg"
-              fill="none"
-              viewBox="0 0 24 24"
-              stroke="currentColor"
-            >
-              <path
-                stroke-linecap="round"
-                stroke-linejoin="round"
-                stroke-width="2"
-                d="M17 8l4 4m0 0l-4 4m4-4H3"
-              />
-            </svg>
-    </a>
-    </div>
+  
 
   <BottomNav />
 </template>
