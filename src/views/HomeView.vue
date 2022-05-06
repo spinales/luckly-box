@@ -79,5 +79,9 @@ clientes.</p>
 </section>
   </main>
 
+  <video controls>
+    <source src="https://emztcswqrpfezsftriuw.supabase.co/storage/v1/object/public/videos/IMG_5358.mp4" type="video/mp4">
+  </video>
+
   <BottomNav />    
 </template>

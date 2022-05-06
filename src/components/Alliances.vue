@@ -11,7 +11,8 @@
     <div class="grid gap-10 mx-auto lg:grid-cols-2 lg:max-w-screen-lg">
       <div class="grid sm:grid-cols-3">
         <div class="relative w-full h-48 max-h-full rounded shadow sm:h-auto">
-          <img class="absolute object-cover w-full h-full rounded" src="https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=3&amp;h=750&amp;w=1260" alt="Person" />
+          <!-- <img class="absolute object-cover w-full h-full rounded" src="https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=3&amp;h=750&amp;w=1260" alt="Person" /> -->
+          <img class="absolute object-cover w-full h-full rounded" src="../assets/accionista.jpg" alt="Person" />
         </div>
         <div class="flex flex-col justify-center mt-5 sm:mt-0 sm:p-5 sm:col-span-2">
           <p class="text-lg font-bold">Accionistas</p>
@@ -41,7 +42,7 @@
       </div>
       <div class="grid sm:grid-cols-3">
         <div class="relative w-full h-48 max-h-full rounded shadow sm:h-auto">
-          <img class="absolute object-cover w-full h-full rounded" src="../assets/emple.jpg" alt="Person" />
+          <img class="absolute object-cover w-full h-full rounded" src="../assets/emple2.jpg" alt="Person" />
         </div>
         <div class="flex flex-col justify-center mt-5 sm:mt-0 sm:p-5 sm:col-span-2">
           <p class="text-lg font-bold">Empleados</p>
