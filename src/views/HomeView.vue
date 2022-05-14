@@ -52,7 +52,7 @@ import BottomNav from '../components/BottomNav.vue';
               <div class="w-full lg:w-5/6 lg:max-w-lg md:w-1/2 rounded-xl">
                   <div>
                       <!-- <embed class="object-cover object-center mx-auto rounded-lg shadow-2xl" alt="hero" src="https://drive.google.com/file/d/1XZYq76hrwfe2IgQxHs0tSaQOD0yxYMQg/preview" type="application/pdf"> -->
-                      <iframe class="object-cover object-center mx-auto rounded-lg shadow-2xl" src="https://drive.google.com/file/d/1fgQaOg0SilZ0HYuX3ikAaqK33sGY5rff/preview" width="640" height="480"></iframe>
+                      <iframe class="object-cover object-center mx-auto rounded-lg shadow-2xl" src="https://drive.google.com/file/d/1SAlHM4bBziGtMeSB3xH8ctipt4KJeniS/preview" width="640" height="480"></iframe>
                   </div>
               </div>
           </div>
